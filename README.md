@@ -10,4 +10,5 @@ I am a student of Computer Science and Engineering at UNLP.
   - <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 
 🎵 Listening to...
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31h6ivhnouzehxpfjtuchwjkp3rq&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=true&bar_color=a34bc3&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31h6ivhnouzehxpfjtuchwjkp3rq&redirect=true)
