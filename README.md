@@ -4,7 +4,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a student of Computer Science and Engineering at UNLP. 
-* **I enjoy building solutions that connect the physical and digital worlds. I'm currently developing my skills in backend development and IoT, with the goal of creating complete systems—from the sensor to the cloud.**
+* **Exploring the fascinating world of IoT and its security. I love to explore how things work on the inside and, most importantly, how to protect them from cyber threats. Always learning and building!**
 - 🌱 I’m currently learning ...
   
   - <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"> 
